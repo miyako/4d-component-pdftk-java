@@ -11,6 +11,8 @@ Create a folder named `Java` at the same level as `/PROJECT/`.
 
 Copy the contents of [Java](https://github.com/miyako/4d-component-pdftk-java/releases/tag/Java) to this folder.
 
+Alternatively, modify the [`JDK`](https://github.com/miyako/4d-component-pdftk-java/blob/main/pdftk-java/Project/Sources/Classes/JDK.4dm#L7) class to reference your local `$JAVA_HOME`.
+
 ### Usage
 
 ```4d
