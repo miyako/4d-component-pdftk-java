@@ -4,7 +4,7 @@
 
 #### Install
 
-Create a folder named `Java` at the same level `PROJECT`.
+Create a folder named `Java` at the same level as `/PROJECT/`.
 
 Copy the contents of [Java](https://github.com/miyako/4d-component-pdftk-java/releases/tag/Java) to this folder.
 
