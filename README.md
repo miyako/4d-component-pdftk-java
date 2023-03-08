@@ -13,6 +13,8 @@ Copy the contents of [Java](https://github.com/miyako/4d-component-pdftk-java/re
 
 Alternatively, modify the [`JDK`](https://github.com/miyako/4d-component-pdftk-java/blob/main/pdftk-java/Project/Sources/Classes/JDK.4dm#L7) class to reference your local `$JAVA_HOME`.
 
+In that case, you don't need the full SDK in your project, just copy `/Java/pdftk-all.jar`.
+
 ### Usage
 
 ```4d
