@@ -1,3 +1,6 @@
+![version](https://img.shields.io/badge/version-19%2B-5682DF)
+![platform](https://img.shields.io/static/v1?label=platform&message=mac-arm&color=blue)
+
 # 4d-component-pdftk-java
 
 4D component of [pdftk-java](https://gitlab.com/pdftk-java/pdftk)
