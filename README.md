@@ -2,13 +2,13 @@
 
 4D component of [pdftk-java](https://gitlab.com/pdftk-java/pdftk)
 
-#### Install
+### Install
 
 Create a folder named `Java` at the same level as `/PROJECT/`.
 
 Copy the contents of [Java](https://github.com/miyako/4d-component-pdftk-java/releases/tag/Java) to this folder.
 
-#### Example
+### Usage
 
 ```4d
 $JDK:=cs.JDK.new()
